@@ -1,8 +1,10 @@
 <html>
 <head>
 <script type="text/javascript" src="validate.js"></script>
+<link rel="stylesheet" type="text/css" href="http://ws1.postescanada-canadapost.ca/css/addresscomplete-2.30.min.css?key=ja39-dw12-hb81-dc18" /><script type="text/javascript" src="http://ws1.postescanada-canadapost.ca/js/addresscomplete-2.30.min.js?key=ja39-dw12-hb81-dc18"></script>
 </head>
 <body>
+
 <form action="#" name="StudentRegistration" onsubmit="return(validate());">
 
 <table cellpadding="2" width="20%" bgcolor="99FFFF" align="center"
